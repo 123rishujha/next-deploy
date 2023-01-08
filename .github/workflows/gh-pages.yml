@@ -2,7 +2,7 @@ name: deploying next app
 
 on:
   push:
-    branches: ["main"]
+    brances: ["main"]
 
 
 jobs:
